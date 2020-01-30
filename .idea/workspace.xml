@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kip_sequential" targetName="kip_sequential" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d1ca24b-28e8-4088-90de-58c6bfb79cd3" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WLVk1BlDq4DdQ1LkJP9SbYSTXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../midTerm_Project/bigrams_OpenMP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="C:\Student\Parallel_Computing\finalTerm_Project\ppm\spotify.ppm C:\Student\Parallel_Computing\finalTerm_Project\ 5" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kip_sequential" RUN_TARGET_NAME="kip_sequential" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kernel_image" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../../inputs/img4.ppm &quot;$PROJECT_DIR$/../outputs/&quot; 7" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kip_sequential" TARGET_NAME="Kernel_image" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kip_sequential" RUN_TARGET_NAME="Kernel_image">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kip_sequential" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kip_sequential" TARGET_NAME="kip_sequential" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kip_sequential" RUN_TARGET_NAME="kip_sequential">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.Kernel_image" />
+      <item itemvalue="CMake Application.kip_sequential" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1ca24b-28e8-4088-90de-58c6bfb79cd3" name="Default" comment="" />
+      <created>1515858054876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515858054876</updated>
+      <workItem from="1515858056041" duration="1490000" />
+      <workItem from="1516033969114" duration="2552000" />
+      <workItem from="1516119983872" duration="1706000" />
+      <workItem from="1516445992915" duration="37000" />
+      <workItem from="1516901278238" duration="299000" />
+      <workItem from="1516979677712" duration="1320000" />
+      <workItem from="1517235474735" duration="17000" />
+      <workItem from="1517671672175" duration="4316000" />
+      <workItem from="1517756939878" duration="2054000" />
+      <workItem from="1517776834643" duration="2804000" />
+      <workItem from="1517846997770" duration="5000" />
+      <workItem from="1518111575073" duration="1381000" />
+      <workItem from="1518184461432" duration="9573000" />
+      <workItem from="1518259505783" duration="612000" />
+      <workItem from="1518343141886" duration="610000" />
+      <workItem from="1518456738928" duration="8303000" />
+      <workItem from="1518528613406" duration="2994000" />
+      <workItem from="1518536452905" duration="1253000" />
+      <workItem from="1518622898409" duration="811000" />
+      <workItem from="1518886560950" duration="28000" />
+      <workItem from="1519124526600" duration="899000" />
+      <workItem from="1519140621926" duration="1266000" />
+      <workItem from="1519218817779" duration="20000" />
+      <workItem from="1519310410459" duration="172000" />
+      <workItem from="1578929001703" duration="140000" />
+      <workItem from="1578929968023" duration="707000" />
+      <workItem from="1578930857297" duration="3608000" />
+      <workItem from="1579019396215" duration="69000" />
+      <workItem from="1579026165540" duration="953000" />
+      <workItem from="1579037500132" duration="332000" />
+      <workItem from="1580169381654" duration="3127000" />
+      <workItem from="1580318504894" duration="1166000" />
+      <workItem from="1580322301451" duration="1122000" />
+      <workItem from="1580328095279" duration="2478000" />
+      <workItem from="1580332283226" duration="539000" />
+      <workItem from="1580394460246" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580394690895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580394690895" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580328740689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580328740689" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1580394741308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580394741308" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1580394741308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580394741308" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1580394741308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580394741308" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1580394741308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580394741308" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580322339925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580322339925" />
+    <state x="848" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580394466468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580394466468" />
+    <state x="463" y="144" width="781" height="536" key="find.popup" timestamp="1580318657794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="781" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580318657794" />
+  </component>
+</project>
