@@ -148,11 +148,9 @@ Image_t *importPPM(const char *filename) {
         parseDimensions(line, &width, &height, &channels);
     }
 
-    // the line now contains the depth information
     line = nextLine(file);
     parseDepth(line, &depth);
 
-    // the rest of the lines contain the data in binary format
     charData = (unsigned char *) readFile(file, width * channels * sizeof(unsigned char), height);
 
     img = newImage(width, height, channels);
